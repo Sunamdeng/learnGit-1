@@ -1,3 +1,3 @@
 > # learnGit
 
-> * Good start，，，
+* Good start，，，
